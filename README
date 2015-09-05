@@ -1,0 +1,16 @@
+# Basic-Phasor-Plot
+Drawing Basic phasor diagram This code shows how to draw a basic phasor and use plot windows
+
+Description	
+%% Drawing Basic phasor diagram 
+% This code shows how to draw a basic phasor and use plot window 
+% simultaneously. 
+% Here, in this code I have used annotation for drawing arrow. 
+% Also, to change its X and Y dimension of header, sliders have been 
+% provided. 
+% Further you can use this code to do calculate resultant phasor of more than 
+% two phasors. 
+% x_cord and y_cord can be made global and used for calculating resultant 
+% vector.
+
+MATLAB release	MATLAB 7.10 (R2010a)
